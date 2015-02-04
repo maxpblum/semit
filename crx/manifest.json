@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Semit",
-  "description": "This extension reverses the characters of any New York Times headline",
+  "description": "This extension reverses the characters of any front page New York Times headline",
   "version": "0.1",
   "content_scripts": [
     {
